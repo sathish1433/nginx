@@ -2,7 +2,7 @@
 
 ## 🔧 Configuration Code
 
-# /etc/nginx/site-enable/default (ubuntu) 
+### /etc/nginx/site-enable/default (ubuntu) 
 
 In Rhel  /etc/nginx/nginx.conf directly add in conf file.
 
