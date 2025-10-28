@@ -2,6 +2,10 @@
 
 ## 🔧 Configuration Code
 
+# /etc/nginx/site-enable/default (ubuntu) 
+
+In Rhel  /etc/nginx/nginx.conf directly add in conf file.
+
 ``` nginx
 upstream backend_app {      
     ip_hash;            
